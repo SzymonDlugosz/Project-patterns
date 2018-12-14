@@ -17,6 +17,6 @@ Created in Java project patterns like:
 - [ ] Builder pattern
 
 
-## All projects are created on the basis of a book named "Head First" Design Patterns
+## All projects are created on the basis of a book named "Design Patterns" publishing "Head First"
 
 After read and learn about specific project I'll add some theory information about them.
