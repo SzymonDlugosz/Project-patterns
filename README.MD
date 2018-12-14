@@ -10,9 +10,9 @@ Created in Java project patterns like:
 - [ ] Adapter pattern
 - [ ] Facade patttern
 - [ ] Template method pattern
-- [ ] iterator pattern
-- [ ] composite pattern
-- [ ] state pattern
+- [ ] Iterator pattern
+- [ ] Composite pattern
+- [ ] State pattern
 - [ ] Proxy pattern
 - [ ] Builder pattern
 
